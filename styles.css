@@ -5,6 +5,85 @@ html {
 *,
 :before,
 :after {
+  font-family: roboto, sans-serif;
   box-sizing: inherit;
   font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0 100px;
+}
+
+.header_section {
+  background-color: #1f2937;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 100px 100px 100px;
+}
+
+.logo_links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+.logo_links h1 {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+  font-size: 18px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #e5e7eb;
+}
+
+.hero {
+  display: flex;
+  height: 200px;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.hero_text {
+  width: 50%;
+}
+
+.hero_text h1 {
+  font-size: 48px;
+  font-weight: 800;
+  color: #f9faf8;
+}
+
+.hero_text > * {
+  margin: 5px 0;
+}
+
+.hero_text > button {
+  background-color: #3882f6;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 10px;
+  border: transparent;
+}
+
+.image_placeholder {
+  background-color: #6d747d;
+  display: flex;
+  width: 50%;
+  height: 100%;
+}
+
+.image_placeholder > p {
+  align-self: center;
+  text-align: center;
+  width: 100%;
 }
