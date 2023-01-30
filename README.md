@@ -11,5 +11,8 @@ At this point I am wondering how the placeholder was put in the middle of the im
 
 After some digging I realized the the box there is not actually an image but is likely an empty div because an image tag without href should display the usual thumbnail and that's what I did in my work.
 
+In the second section I faced some difficulties but I didn't need to research to resolve any problem I encountered.
+
 **Things Completed**
 I was able to add the basic structure of the header section.
+Second Section complete
