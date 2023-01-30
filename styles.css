@@ -87,3 +87,39 @@ body {
   text-align: center;
   width: 100%;
 }
+
+.information_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  gap: 40px 0;
+  height: 400px;
+}
+
+.information_section > p {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
+}
+
+.cards_container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.card_box {
+  width: 150px;
+}
+
+.card_box > p {
+  text-align: center;
+}
+
+.card {
+  border: solid #3882f6;
+  border-radius: 10px;
+  width: 150px;
+  height: 150px;
+}
