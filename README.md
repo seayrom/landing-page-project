@@ -17,8 +17,20 @@ The third section proved a bit of challenge because I was finding it difficult t
 
 The fourth section came very easy to me. I realize I will have to reformat my css to remove repetitive declarations to make my code simpler. Google and chrome dev tools has been a great help.
 
+Found the footer section very easy too
+
 **Things Completed**
 I was able to add the basic structure of the header section.
 Second Section complete
 Third Section done!!
 Fourth Section complete
+Footer Section finally done
+
+**Final thoughts**
+I finally finished the project and as I said in the beginning I wanted to build a replica of the page provided and I tried to do that the best I could. In the process I was able to google things like:
+
+1. Making corner of element borders rounded
+2. Using the :nth of type Pseudo class selector
+3. Making my image place holder since I didn't use an image file
+
+I also see how useful dev-tools can be in debugging my code
