@@ -34,3 +34,5 @@ I finally finished the project and as I said in the beginning I wanted to build 
 3. Making my image place holder since I didn't use an image file
 
 I also see how useful dev-tools can be in debugging my code
+
+**Edited code two remove some repetitions**
