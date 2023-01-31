@@ -15,7 +15,10 @@ In the second section I faced some difficulties but I didn't need to research to
 
 The third section proved a bit of challenge because I was finding it difficult to align the "source of quote" part to the left and found it challenging but once again some googling helped.
 
+The fourth section came very easy to me. I realize I will have to reformat my css to remove repetitive declarations to make my code simpler. Google and chrome dev tools has been a great help.
+
 **Things Completed**
 I was able to add the basic structure of the header section.
 Second Section complete
 Third Section done!!
+Fourth Section complete
