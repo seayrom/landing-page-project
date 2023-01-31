@@ -123,3 +123,22 @@ body {
   width: 150px;
   height: 150px;
 }
+
+.quote_section {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 100px 150px;
+}
+
+.quote_section em {
+  font-size: 36px;
+}
+
+.quote_section > p:nth-of-type(2) {
+  display: flex;
+  justify-content: flex-end;
+}
